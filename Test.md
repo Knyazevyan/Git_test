@@ -30,4 +30,4 @@
 
 * *git log --graph* - показывает структуру веток;
 
-* *git branch -d branchname* - удаляет ветку.
+* *git branch -d "branch name"* - удаляет ветку branch name.
